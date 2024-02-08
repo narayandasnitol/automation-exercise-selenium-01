@@ -1,4 +1,4 @@
-## 1. Launch browser(Chrome/Firefox)
+-- 1. Launch browser(Chrome/Firefox)
 ## 2. Navigate to url 'http://automationexercise.com'
 ## 3. Verify that home page is visible successfully
 ## 4. Add products to cart
